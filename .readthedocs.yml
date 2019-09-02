@@ -9,7 +9,7 @@ version: 2
 sphinx:
   configuration: conf.py
 # The master toctree document.
-master_doc = 'index'
+master_doc: 'index'
 
 # Build documentation with MkDocs
 #mkdocs:
