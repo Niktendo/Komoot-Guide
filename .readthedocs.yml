@@ -8,6 +8,8 @@ version: 2
 # Build documentation in the docs/ directory with Sphinx
 sphinx:
   configuration: conf.py
+# The master toctree document.
+master_doc = 'index'
 
 # Build documentation with MkDocs
 #mkdocs:
