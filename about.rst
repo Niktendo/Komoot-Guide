@@ -2,7 +2,7 @@
 ============
 
 Der Komoot-Guide wurde mit dem Ziel ins Leben gerufen,
-das Handling mit Komoot und dem Garmin 1000 leichter zu machen.
+das Handling mit Komoot und dem Garmin Edge 1000 leichter zu machen.
 
 
 Kontakt
