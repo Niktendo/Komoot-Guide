@@ -11,8 +11,10 @@ Willkommen zum Komoot-Guide!
    :hidden:
    :caption: Inhalte:
 
-   about
-
+   /gettingstarted/step1
+   /faq
+   /troubleshooting
+   /about
 
 
 .. Indices and tables
