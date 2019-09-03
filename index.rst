@@ -6,6 +6,10 @@
 Willkommen zum Komoot-Guide!
 ========================================
 
+Dieser Guide führt dich Schritt-für-Schritt durch das Handling mit Komoot,
+begleitet mit ausführlichen Handlungsschritten und entsprechenden Bildern.
+
+
 .. toctree::
    :maxdepth: 3
    :hidden:
