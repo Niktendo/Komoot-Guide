@@ -54,29 +54,6 @@ color: #7ec3e6 !important;
 background-color: #2d2d2d !important;
 }
 
-.wy-side-nav-search {
-	background-color: #C42525;
-}
-
-.wy-nav-side {
-	background: #821C1C;
-	color: #FDFFFF;
-}
-
-.wy-nav-top {
-	background: #C42525;
-	color: #FDFFFF;
-}
-
-.toctree-l1>a:hover { 
-  color: #FDFFFF !important;
-  background-color: #C42525 !important;
-}
-
-.wy-side-nav-search input[type=text] {
-   border-color:#C42525 !important;
-}
-
 ul .simple {
     margin: -5px;
 }

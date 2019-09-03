@@ -11,7 +11,6 @@ Welcome to Komoot-Guide's documentation!
    :caption: Contents:
 
    readme
-   contents
 
 
 
